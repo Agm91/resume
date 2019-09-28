@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alejandro González Martínez</string>
+    <string name="nav_header_subtitle">alejandro.gonzalez.martinez@live.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_share">Share</string>
+    <string name="action_see_github">See Github</string>
+    <string name="action_see_linkedin">See LinkedIn</string>
+
+    <string name="url_linkedin">https:www.linkedin.com/in/agm91</string>
+    <string name="url_github">https:www.github.com/agm91</string>
+
+    <string name="text_share">See this great dev!\nLinkedIn: https:www.linkedin.com/in/agm91\nGithub: https:www.github.com/agm91</string>
+
+    <string name="menu_home">Resume</string>
+
+    <string name="education">Education</string>
+    <string name="experience">Experience</string>
+    <string name="certification"><![CDATA[Certifications & Trainings]]></string>
+    <string name="other">Other technical experience</string>
+    <string name="language">Language</string>
+</resources>

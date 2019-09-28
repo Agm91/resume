@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876833725549",
+    "firebase_url": "https://resu-963f6.firebaseio.com",
+    "project_id": "resu-963f6",
+    "storage_bucket": "resu-963f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876833725549:android:94f05df3d81df3e565b364",
+        "android_client_info": {
+          "package_name": "com.agm91.resume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876833725549-k3vpe6coqjncmphff3i3a8uqc2ef8h1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyWSoXyKqllWzdu5vThRzW3tCMtW3r7Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876833725549-k3vpe6coqjncmphff3i3a8uqc2ef8h1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
